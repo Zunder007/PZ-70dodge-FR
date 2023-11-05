@@ -3,15 +3,15 @@ IG_UI_FR = {
 	IGUI_VehicleName70dodgeTA = "'70 Dodge Challenger T/A",
 	IGUI_VehicleName70dodgePD = "'70 Dodge Challenger Police",
 
-	IGUI_VehiclePartDG70SpareTire = "Pneu de rechange",
+	IGUI_VehiclePartDG70SpareTire = "Pneu de secours",
 	IGUI_VehiclePartDG70RTRoof = "Toit amovible",
 	IGUI_VehiclePartDG70FrontBumper = "Pare-chocs avant",
 	IGUI_VehiclePartDG70RearBumper = "Pare-chocs arrière",
 
-	IGUI_VehiclePartDG70WindshieldArmor = "Armure de pare-brise",
-	IGUI_VehiclePartDG70WindshieldRearArmor = "Armure de pare-brise arrière",
-	IGUI_VehiclePartDG70DoorLeftArmor = "Armure de portière avant gauche",
-	IGUI_VehiclePartDG70DoorRightArmor = "Armure de portière avant droite",
+	IGUI_VehiclePartDG70WindshieldArmor = "Blindage de pare-brise",
+	IGUI_VehiclePartDG70WindshieldRearArmor = "Blindage de pare-brise arrière",
+	IGUI_VehiclePartDG70DoorLeftArmor = "Blindage de portière avant gauche",
+	IGUI_VehiclePartDG70DoorRightArmor = "Blindage de portière avant droite",
 
 	IGUI_VehiclePartDG70Spoiler = "Becquet",
 	IGUI_VehiclePartDG70Trunk = "Coffre",
