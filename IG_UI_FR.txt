@@ -15,4 +15,6 @@ IG_UI_FR = {
 
 	IGUI_VehiclePartDG70Spoiler = "Becquet",
 	IGUI_VehiclePartDG70Trunk = "Coffre",
+
+	IGUI_CraftCategory_DG70 = "'70 Dodge Challenger",
 }
