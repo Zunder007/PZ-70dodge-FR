@@ -12,4 +12,9 @@ Recipes_FR = {
 	Recipe_Make_DG70_Rear_Windshield_Armor = "Fabriquer Blindage de pare-brise arrière",
 	Recipe_Make_DG70_Windshield = "Fabriquer Pare-brise",
 	Recipe_Make_DG70_Windshield_Armor = "Fabriquer Blindage de pare-brise",
+
+	Recipe_Make_DG70_Roofrack = "Fabriquer Galerie de toit",
+	Recipe_Make_DG70_Tire = "Fabriquer Pneu",
+	Recipe_Make_DG70_Windshield_Armor_Type_1 = "Fabriquer Blindage de pare-brise Type 1",
+	Recipe_Make_DG70_Windshield_Armor_Type_2 = "Fabriquer Blindage de pare-brise Type 2",
 }
