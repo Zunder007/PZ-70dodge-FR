@@ -26,4 +26,10 @@ ItemName_FR = {
 	ItemName_Base.DG70WindshieldRearArmor = "70 Challenger Blindage de pare-brise arrière",
 	ItemName_Base.DodgeFrontSeat3 = "70 Challenger Siège avant",
 	ItemName_Base.DodgeRearSeat3 = "70 Challenger Siège arrière",
+
+	ItemName_Base.CUDAtire3 = "70 Barracuda Pneu",
+	ItemName_Base.CamaroSStire3 = "69 Camaro Pneu",
+	ItemName_Base.DG70WindshieldArmorB = "70 Challenger Blindage de pare-brise Type 2",
+	ItemName_Base.DodgeRTtire3 = "70 Challenger Pneu",
+	ItemName_Base.OldSmallRoofrack3 = "Petite Galerie de toit Rétro",
 }
